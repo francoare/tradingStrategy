@@ -1,1 +1,3 @@
-# tradingStrategy
+Este proyecto implementa una estrategia de trading utilizando el framework Backtrader en Python. La estrategia se basa en distintos comportamientos con respecto al valor de cierre de una acción y el valor del indicador SMA utilizando distintos períodos, y se aplica a varios instrumentos financieros.
+
+Tras la ejecución del código, se generará un archivo CSV llamado output.csv que contiene un registro de todas las transacciones realizadas durante el periodo analizado, así como el valor del portafolio luego de cada transacción. Además, se mostrará un gráfico con los resultados de la estrategia.
